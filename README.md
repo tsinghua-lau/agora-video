@@ -2,6 +2,9 @@
 # 项目页面
 ![image](https://user-images.githubusercontent.com/43164478/181440181-6b110a3d-ffd3-4bb6-83d1-8b9f2af224be.png)
 
+# 使用方法
+http://t.csdn.cn/GCntl
+
 ## Project setup
 ```
 npm install
